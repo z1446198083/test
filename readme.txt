@@ -1,2 +1,2 @@
 xuexi git 
-xuexi git jichu caozuo 版本1 555666buhaoba(fenzhi-dev)
+xuexi git jichu caozuo 版本1 555666buhaoba(fenzhi-readme)
